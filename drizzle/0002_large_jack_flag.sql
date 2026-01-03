@@ -1,0 +1,1 @@
+ALTER TABLE `participants` ADD `selfContact` varchar(20);
